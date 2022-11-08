@@ -30,6 +30,14 @@ body
     padding: 15px;
 }
 
+/* directly effecting the links */
+.links-wrapper a
+{
+    /* for the links themselves */
+    text-decoration: none;
+    color: white;
+}
+
 .title-wrapper 
 {
     /* font */
