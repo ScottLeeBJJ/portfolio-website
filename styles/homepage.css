@@ -1,10 +1,16 @@
 body 
 {
     /* color */
-    background-color: whitesmoke;
+    background-color: black;
 
     /* border control */
     overflow-x: hidden;
+}
+
+.background-img img
+{
+    width: 100%;
+    border-radius: 2%;
 }
 
 .header-wrapper 
@@ -20,7 +26,7 @@ body
 
     /* edge fillings */
     margin: -15px;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     padding: 15px;
 }
 
@@ -37,5 +43,6 @@ body
 
     /* edge fillings */
     margin: -15px;
+    margin-top: 1px;
     padding: 15px;
 }
