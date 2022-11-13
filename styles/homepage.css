@@ -30,12 +30,27 @@ body
     padding: 15px;
 }
 
+.title-wrapper
+{
+    font-weight: bold;
+    padding: 10px;
+}
+
 /* directly effecting the links */
 .links-wrapper a
 {
     /* for the links themselves */
+    /* add in hover effect */
     text-decoration: none;
     color: white;
+}
+
+.social-links-wrapper a
+{
+    color: white;
+    text-decoration: none;
+
+    /* add in hover effect */
 }
 
 .title-wrapper 
@@ -48,6 +63,7 @@ body
 {
     /* color */
     background-color: black;
+    color: white;
 
     /* edge fillings */
     margin: -15px;
