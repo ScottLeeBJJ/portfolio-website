@@ -17,7 +17,7 @@ body
 {
     /* colors */
     background-color: burlywood;
-    color: white;
+    color: green;
 
     /* alignment */
     display: flex;
@@ -42,12 +42,12 @@ body
     /* for the links themselves */
     /* add in hover effect */
     text-decoration: none;
-    color: white;
+    color: green;
 }
 
 .social-links-wrapper a
 {
-    color: white;
+    color: green;
     text-decoration: none;
 
     /* add in hover effect */
@@ -57,6 +57,14 @@ body
 {
     /* font */
     font-size: 50px;
+}
+
+.body-content-wrapper
+{
+    color: burlywood;
+    background-color: green;
+
+    background-size: 1500px;
 }
 
 .footer-wrapper 
