@@ -1,0 +1,11 @@
+.footer-wrapper 
+{
+    /* color */
+    background-color: black;
+    color: white;
+
+    /* edge fillings */
+    margin: -15px;
+    margin-top: 1px;
+    padding: 15px;
+}
