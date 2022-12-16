@@ -9,3 +9,10 @@
     margin-top: 1px;
     padding: 15px;
 }
+
+.footer-wrapper a
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
