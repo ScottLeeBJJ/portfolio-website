@@ -24,13 +24,15 @@ body
 
 .body-content
 {
-    height: 500px;
+    Padding: 20px;
 }
 
 .tech-used
 {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    font-size: 30px;
 }
 
+.tech-used-list
+{
+    font-size: 25px;
+}
