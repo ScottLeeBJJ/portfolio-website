@@ -7,19 +7,12 @@ body
     overflow-x: hidden;
 }
 
-.background-img img
-{
-    width: 100%;
-    border-radius: 2%;
-}
-
 .body-content-wrapper
 {
     color: green;
     background-color: whitesmoke;
 
     margin: -15px;
-    padding: 15px;
 }
 
 .body-content
