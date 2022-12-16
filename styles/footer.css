@@ -10,9 +10,21 @@
     padding: 15px;
 }
 
+.footer
+{
+    /* flexbox for footer content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+}
+
 .footer-wrapper a
 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    padding-left: 100px;
 }
