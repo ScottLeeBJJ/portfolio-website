@@ -26,3 +26,11 @@ body
 {
     height: 500px;
 }
+
+.tech-used
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
