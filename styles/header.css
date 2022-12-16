@@ -1,0 +1,45 @@
+.header-wrapper 
+{
+    /* colors */
+    background-color: burlywood;
+    color: green;
+
+    /* alignment */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    /* edge fillings */
+    margin: -15px;
+    margin-bottom: 2px;
+    padding: 15px;
+}
+
+.title-wrapper
+{
+    font-weight: bold;
+    padding: 10px;
+}
+
+/* directly effecting the links */
+.links-wrapper a
+{
+    /* for the links themselves */
+    /* add in hover effect */
+    text-decoration: none;
+    color: green;
+}
+
+.social-links-wrapper a
+{
+    color: green;
+    text-decoration: none;
+
+    /* add in hover effect */
+}
+
+.title-wrapper 
+{
+    /* font */
+    font-size: 50px;
+}
