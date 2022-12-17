@@ -17,7 +17,11 @@ body
 
 .body-content
 {
-    Padding: 20px;
+    Padding: 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .tech-used
